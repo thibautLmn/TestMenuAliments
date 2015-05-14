@@ -50,7 +50,7 @@ public class MyAdapter extends BaseAdapter {
 
         MonViewHolder holder;
         /*
-        premières fois qu'on affiche la liste, il faut inflater depuis le fichier xml car les vue n'ont jamais été créées
+        premières fois qu'on affiche la liste, il faut inflater depuis le fichier xml car les vue n'ont jamais été créées gh
          */
         if (convertView==null){
             //layout de chaque élément de la liste: le même pour tous voir fichier xml
