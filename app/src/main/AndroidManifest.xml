@@ -17,6 +17,10 @@
             </intent-filter>
         </activity>
 
+        <activity
+            android:name="com.example.thibaut.testmenualiments.MaterialDesignTest"
+            android:label="@string/app_name"/>
+
 
     </application>
 
